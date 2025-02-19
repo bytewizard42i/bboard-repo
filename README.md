@@ -1,2 +1,2 @@
-# bboard-folder
+# bboard-repo
 Bulletin Board tutorial for Midnight and Compact https://docs.midnight.network/develop/tutorial/creating/bboard-contract
